@@ -436,10 +436,11 @@
         top:-10vh;
     }
     .circle2{
+        opacity:0.3;
         height: 17vh;
         width:30vw;
-        left:-10vw;
-        top:83vh;
+        left:-5vw;
+        top:70vh;
     }
     .quote{
         color:rgb(168, 0, 16);
